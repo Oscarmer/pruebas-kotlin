@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805656230288",
+    "project_id": "firebose-2e09f",
+    "storage_bucket": "firebose-2e09f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805656230288:android:103ebd1abfe3aca83b1b15",
+        "android_client_info": {
+          "package_name": "com.oscar.firebose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805656230288-sorhkvbc9ujrekk21m1qgnb4k3i4qhh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPhGBJcLEx37W-8PQ5_U6Mpn-_Cn_bR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805656230288-sorhkvbc9ujrekk21m1qgnb4k3i4qhh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
